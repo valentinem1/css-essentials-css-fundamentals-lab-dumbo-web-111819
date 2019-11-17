@@ -25,7 +25,6 @@ figcaption {
 #featured-property p {
   width: 800px;
   margin: auto;
-  margin-bottom: 30px;
   text-align: center;
 }
 
@@ -36,6 +35,7 @@ figcaption {
   float: left;
   text-align: center;
   background-color: red;
+  margin-top: 10px;
   width: 25%;
 }
 
